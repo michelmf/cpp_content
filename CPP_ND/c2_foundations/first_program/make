@@ -1,0 +1,6 @@
+# Base makefile for C++ programs
+
+all: program
+
+
+program: main.o
