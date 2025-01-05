@@ -1,6 +1,6 @@
 # C++ Programming
 
-C++ Content.
+C++ Content with projects, courses, and random codes.
 
 ## Folders
 
